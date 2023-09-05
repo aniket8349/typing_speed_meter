@@ -40,3 +40,28 @@ if __name__ == '__main__':
             break
         else:
             print("Invalid input. Please enter 'yes' or 'no'.")
+
+### GUI
+root = tk.Tk()
+root.title("Typing Speed Test")
+
+test_sentences = [
+    "A Python speed test project typically involves measuring the execution time of a specific piece of code or a function.",
+    "You can achieve this using Python's built-in time module.",
+    "Here's a simple example of a Python speed test project."
+]
+
+test_label = tk.Label(root, text="", wraplength=400)
+test_label.pack(pady=10)
+
+input_text = tk.Entry(root, width=50)
+input_text.pack()
+
+submit_button = tk.Button(root, text="Submit", command=start_typing_test)
+submit_button.pack(pady=10)
+
+start_typing_test()
+
+root.mainloop()
+
+
