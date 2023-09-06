@@ -1,6 +1,6 @@
 # typing_speed_meter
 A Python speed test project typically involves measuring the execution time of a specific piece of code or a function. You can achieve this using Python's built-in time module. Here's a simple example of a Python speed test project:
-The code you've provided is a Python script for a typing speed test program. Here's a breakdown of what the code does:
+The code you've provided is a Python script for a typing speed test program. Here's a breakdown of what the code does
 
 It imports the time and random modules to measure time intervals and generate random sentences for typing tests.
 
