@@ -31,4 +31,4 @@ If the user enters "no", the program exits with a "Thank you!" message.
 
 If the user enters anything other than "yes" or "no", it displays an "Invalid input" message.
 
-Overall, this script allows users to practice typing by providing random sentences from the list and then gives them feedback on their typing speed and the number of errors they made during the test. Users can repeat the test as many times as they want until they choose to exit.
+Overall, this script allows users to practice typing by providing random sentences from the list and then gives them feedback on their typing speed and the number of errors they made during the test. Users can repeat the test as many times as they want until they choose to exit
