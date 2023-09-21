@@ -8,7 +8,7 @@ Two functions are defined:
 
 mistake(partest, usertest): This function calculates the number of errors between the provided correct text (partest) and the text entered by the user (usertest).
 
-speed_time(time_s, time_e, userinput): This function calculates the typing speed in words per second based on the start time (time_s), end time (time_e), and the user's input (userinput).
+speed_time(time_s, time_e, userinput): This function calculates the typing speed in words per second based on the start time (time_s), end time (time_e), and the user's input (userinput)
 
 The script includes a list of test sentences for users to type.
 
